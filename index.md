@@ -9,6 +9,6 @@
 	<body>
 		<h1> Test</h1>
 		<p>
-			<a href="https://my.csus.edu/" title="yoyoyoy" target="_blank"> Hello world!</a>. <em>This is a test html page!</em></p>
+			<a href="https://my.csus.edu/" title="yoyoyoy" target="_blank"> Changed the index page, what now></a>. <em>Updated index page.</em></p>
 	</body>
 </html>
